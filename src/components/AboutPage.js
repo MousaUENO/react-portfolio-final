@@ -79,6 +79,7 @@ Als zelfstandige freelancer en blogger deel ik mijn kennis en ervaring met ander
 <br /> <br/>
 
 Ik geloof sterk in de kunst van webontwikkeling en ben ervan overtuigd dat het toevoegen van bewustzijn aan mijn werk de sleutel is tot het leveren van hoogwaardige resultaten. Wil je meer met mij delen of contact opnemen, dan kun je me bereiken via mijn sociale links.
+        
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
