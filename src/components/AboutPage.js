@@ -72,11 +72,13 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+        Ik ben een webdeveloper gevestigd in Nederland. Mijn passie ligt in het creëren van zowel eenvoudige als prachtige websites met een focus op een optimale gebruikerservaring. Mijn expertise omvat het volledige spectrum van frontend-ontwikkeling, en ik ben altijd bezig met het verkennen van nieuwe technologieën en het realiseren van boeiende projecten.
 <br /> <br/>
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
-<br/> <br/>
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
+
+Als zelfstandige freelancer en blogger deel ik mijn kennis en ervaring met anderen. Schrijven is een van mijn favoriete bezigheden, en ik publiceer regelmatig blogs over mijn vakgebied en de laatste ontwikkelingen in de webwereld. Naast het bouwen en ontwerpen van websites, ben ik ook gepassioneerd door het lezen van boeken die mijn kennis en creativiteit stimuleren.
+<br /> <br/>
+
+Ik geloof sterk in de kunst van webontwikkeling en ben ervan overtuigd dat het toevoegen van bewustzijn aan mijn werk de sleutel is tot het leveren van hoogwaardige resultaten. Wil je meer met mij delen of contact opnemen, dan kun je me bereiken via mijn sociale links.
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
